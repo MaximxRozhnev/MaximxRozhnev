@@ -1,5 +1,5 @@
 <h1 align="center">Привет, я Максим Рожнев 👋</h1>
-<h3 align="center">Full-Stack разработчик с интересом к Frontend'у, Backend'у и автоматизации</h3>
+<h3 align="center">Разработчик с интересом к Frontend'у, Backend'у и автоматизации</h3>
 
 <p align="center">
   <a href="https://t.me/leon_muertos">
