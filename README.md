@@ -39,12 +39,13 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/-React%20Router-CA4245?&logo=reactrouter&logoColor=white)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?&logo=reactrouter&logoColor=white)\
+![Next.js](https://img.shields.io/badge/-Next.js-000000?&logo=next.js&logoColor=white)
 
 #### 🌐 Backend:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?&logo=next.js&logoColor=white)
+
 
 ---
 
